@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "Fonuentes",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208988689?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "Fonuentes",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-04-24T15:01:50.257Z",
-    "updated_at": "2025-04-24T15:01:50.257Z"
-  }
+    "updated_at": "2025-04-24T15:01:50.257Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "52013bfd-da68-489e-b990-17fa95a37a0c": {
+      "content": [],
+      "created_at": "2025-04-24T15:01:50.263Z",
+      "created_by": "Fonuentes",
+      "title": "Austin Avengers Podcast: Rhetoric Project 4",
+      "updated_at": "2025-04-24T15:01:50.263Z",
+      "updated_by": "Fonuentes",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "52013bfd-da68-489e-b990-17fa95a37a0c"
+  ]
 }
