@@ -251,6 +251,258 @@
         }
       ],
       "uuid": "35d1cebc-61c1-4fb0-92aa-c63229c952e9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Intro music starts and transitions to actual start"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Medium) (Music) (Backgrounud)"
+        }
+      ],
+      "uuid": "94958e35-be1f-45a4-a5a3-a0d7f6a77217"
+    },
+    {
+      "start_time": 25,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I state the podcast name and what we will be speaking on today"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Informative) (Emotional) (Communities) (Displacement) (Stakeholders)"
+        }
+      ],
+      "uuid": "0849eca5-c85f-480e-8d01-7c32b9e3ba06"
+    },
+    {
+      "start_time": 50,
+      "end_time": 90,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I elaborate a little more on the specifics of the topic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Data) (Ethos) (Informative) (Stakeholders) (Housing) (Displacement)"
+        }
+      ],
+      "uuid": "ddd4fb7d-0ae3-4324-87b7-11a437323424"
+    },
+    {
+      "start_time": 90,
+      "end_time": 150,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Detail my proposal with three main factors and say it is absolutely essential."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Ethos) (Pathos) (Persuasive) (informative) (Communities)"
+        }
+      ],
+      "uuid": "42a585df-415c-4226-bd76-e6afd68e0caa"
+    },
+    {
+      "start_time": 150,
+      "end_time": 330,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conversation with guest speaker on the topic"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Interview) (Ethos) (Informative) (Communities) (Housing) (Personal Experience)"
+        }
+      ],
+      "uuid": "2895dd38-9032-453e-8dab-92343f096737"
+    },
+    {
+      "start_time": 330,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conclude interview and build on arguments with evidence from sources"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Data) (Ethos) (Informative)"
+        }
+      ],
+      "uuid": "ebec1270-c0ba-437a-b201-b72ef1f6b5f2"
+    },
+    {
+      "start_time": 450,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nature and Outdoors sound effect plays"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Sound Effect) (Theme) (Location) (Community)"
+        }
+      ],
+      "uuid": "184d1e73-3bd3-4127-8342-0ba22d39221b"
+    },
+    {
+      "start_time": 450,
+      "end_time": 500,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compare info from sources to curent situation in Austin"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Ethos) (Informative) (Communities) (Displacement) (Economy)"
+        }
+      ],
+      "uuid": "361c5bda-c820-479a-ae39-9ecd45c6dbcd"
+    },
+    {
+      "start_time": 500,
+      "end_time": 540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Offer Rebuttal and Refutation Statement"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Ethos) (Logos) (Argumentative) (Persuasive) (Tone of Voice)"
+        }
+      ],
+      "uuid": "24be46fe-d7e0-46b5-8ba8-9b057789f4ef"
+    },
+    {
+      "start_time": 540,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dive into how different types of small businesses serve as anchors for the community"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Communities) (Pathos) (Informative) (Stakeholders) (Emotional)"
+        }
+      ],
+      "uuid": "537e3be5-5d42-4ff2-9b48-763f322cb946"
+    },
+    {
+      "start_time": 570,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Conclude the podcast and state call to action "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Audience) (Tone of Voice) (Persuasive) (Purpose) (Stakeholders)"
+        }
+      ],
+      "uuid": "6474f3b9-75e9-4e5b-8b79-c0ddb987f3d7"
+    },
+    {
+      "start_time": 600,
+      "end_time": 645,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Outro/Closing music for podcast"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "(Music) (Medium) (Background)"
+        }
+      ],
+      "uuid": "3399db71-56da-440b-b25a-aef1706b3a11"
     }
   ],
   "set": "Default",
